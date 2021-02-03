@@ -17,4 +17,7 @@ this is horizontal line
 - milk
  *italic*
  **blod**
+- how to open hyper links [apssdc](http://www.apssdc.in)
+- [ciet college](https://www.chalapathi engg.ac.in/)
+
 
