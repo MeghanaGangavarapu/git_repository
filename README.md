@@ -19,6 +19,6 @@ this is horizontal line
  **blod**
 - how to open hyper links [apssdc](http://www.apssdc.in)
 - [ciet college](https://www.chalapathi engg.ac.in/)
-[images](https://www.adobe.com/content/dam/cc/us/en/products/creativecloud/stock/stock-riverflow1-720x522.jpg.img.jpg)
+[images]("https://www.adobe.com/content/dam/cc/us/en/products/creativecloud/stock/stock-riverflow1-720x522.jpg.img.jpg")
 
 
